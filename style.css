@@ -1,5 +1,5 @@
 *{
-    background: #c0c4d1;
+    
     font-family: Inter;
     font-size: 25px;
     font-weight: 400;
@@ -12,7 +12,14 @@
     width: 3%;
  }
 
+ #it{
+    min-height: 100vh;
+    position: relative;
+    background-image: url("C:\Users\janto\OneDrive\Documentos\ORACLE ONE 2023\encriptacion\Imágenes\fondo_it1.jpg");
+ }
+
  main{
+    background: none;
     display: flex;
     margin-bottom: 50px;
     margin-left: 80px;
