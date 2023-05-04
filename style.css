@@ -12,11 +12,6 @@
     width: 3%;
  }
 
- #it{
-    min-height: 100vh;
-    position: relative;
- }
-
  main{
     background: none;
     display: flex;
