@@ -41,3 +41,10 @@ function desencriptar(stringDesencriptada){
     }
     return stringDesencriptada
 }
+
+function copiar() {
+    function copyToClipboard() {
+        const outputText = document.getElementById("outputText").value;
+        navigator.clipboard.writeText(outputText)
+    }
+}
